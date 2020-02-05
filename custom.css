@@ -1,0 +1,15 @@
+
+header {
+  background: #1f456e;
+}
+
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bog_River_Flow_from_Low%27s_Ridge%2C_St_Lawrence_County%2C_NY.jpg/1280px-Bog_River_Flow_from_Low%27s_Ridge%2C_St_Lawrence_County%2C_NY.jpg");
+  /*background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: 100%; /* Resize the background image to cover the entire container */
+  background-attachment: fixed;
+  width: 799px;
+  color: white;
+}
