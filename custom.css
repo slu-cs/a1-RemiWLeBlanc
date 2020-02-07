@@ -13,3 +13,21 @@ body {
   width: 799px;
   color: white;
 }
+
+.BLUE a {
+  background: #1f456e;
+}
+
+.BLUE .nav-link {
+  color: white;
+}
+
+
+.BLUE .nav-link:hover {
+text-decoration: underline;
+}
+
+.TOP .nav-link:hover {
+  text-decoration: underline;
+
+}
